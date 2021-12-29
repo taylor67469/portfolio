@@ -28,8 +28,6 @@ const Projects=()=>{
         <br/>
         <br/>
         <h3>ASP.NET/C# Projects</h3>
-        <br/>
-        <br/>
         <a href='#/projects/mental'><div className='mental'>
         <img src={mental}/>
         <p>This Project provides you with random facts about mental health.</p>
