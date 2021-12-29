@@ -14,7 +14,7 @@ const Homepage=()=>{
             <br/>
             <h2 className='title'>About me:</h2>
             <br/>
-            <p className='box'>Hello! my name is Zachary Taylor. I am 27 years old and a Full Stack Web developer. 
+            <p className='box'>Hello! My name is Zachary Taylor. I am 27 years old and a Full Stack Web developer. 
             In my free time, I am either spending time with my girlfriend Daphnee, playing video games, or making music. I have been together with my girlfriend for 7 years as of September 10th 2014. 
             I love spending time with her and playing League of Legends together. 
             Otherwise, I am making music or freestyle rapping.</p>
