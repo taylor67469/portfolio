@@ -1,6 +1,6 @@
 import Homepage from './components/homepage/homepage';
 import React from 'react';
-import { Routes, Route, } from "react-router-dom";
+import { Routes, Route, HashRouter} from "react-router-dom";
 import Projects from "../src/components/projects/projects"
 import Blue from "../src/components/projects/blue/blue"
 import Chad from "../src/components/projects/chad/chad"
