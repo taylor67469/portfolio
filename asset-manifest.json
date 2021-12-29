@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.456b8521.css",
-    "main.js": "/portfolio/static/js/main.6240736c.js",
+    "main.js": "/portfolio/static/js/main.6f2afbcc.js",
     "static/media/Screenshot (21).png": "/portfolio/static/media/Screenshot (21).e151952a539d1a3cd0d6.png",
     "static/media/mentalHealthSS.png": "/portfolio/static/media/mentalHealthSS.d72891f456a95eba8403.png",
     "static/media/expenseimg.png": "/portfolio/static/media/expenseimg.879636a4ddc650ac167f.png",
     "static/media/chadchat.png": "/portfolio/static/media/chadchat.220bebe56bed87ff409c.png",
     "index.html": "/portfolio/index.html",
     "main.456b8521.css.map": "/portfolio/static/css/main.456b8521.css.map",
-    "main.6240736c.js.map": "/portfolio/static/js/main.6240736c.js.map"
+    "main.6f2afbcc.js.map": "/portfolio/static/js/main.6f2afbcc.js.map"
   },
   "entrypoints": [
     "static/css/main.456b8521.css",
-    "static/js/main.6240736c.js"
+    "static/js/main.6f2afbcc.js"
   ]
 }
