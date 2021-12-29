@@ -10,7 +10,7 @@ const Expense=()=>{
         <div className='par'>
         <p>A brilliant web application for tracking your expenses.</p>
         <br/>
-        <p>This application utilizies the Washington Train Tracking API to deliver train times to the user in a user-friendly environment. The user can also save their favorite train stops.</p>
+        <p>This application utilizies Chart.js to show your tracked expenses, as well as having a working login feature.</p>
         <br/>
         <br/>
         <p>Link: <a href="https://github.com/levickane/expensetracker7000">Github</a></p>
