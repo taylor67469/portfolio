@@ -20,6 +20,7 @@ const Homepage=()=>{
             Otherwise, I am making music or freestyle rapping.</p>
             <br/>
             <Link to ="/projects"><button className='portfolioB'>Projects</button></Link>
+            <br/>
             <h2 className='title'>My Achievements:</h2>
             <br/>
             <p className='box'>
