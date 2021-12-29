@@ -1,0 +1,24 @@
+*{
+    text-align: center;
+}
+.title{
+    text-decoration: underline;
+    font-weight: bold;
+    padding-left:20px;
+    padding-right: 20px;
+}
+.box{
+    margin-left: auto;
+    margin-right:auto;
+    width: 400px;
+    padding-left:20px;
+    padding-right: 20px;
+
+}
+.portfolioB{
+font-weight: bold;
+}
+h1, p{
+    padding-left:20px;
+    padding-right: 20px;
+}

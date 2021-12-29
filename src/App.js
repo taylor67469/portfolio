@@ -1,24 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
-
+import Homepage from './components/homepage/homepage';
+import React from 'react';
+import { Routes, Route, } from "react-router-dom";
+import Projects from "../src/components/projects/projects"
+import Blue from "../src/components/projects/blue/blue"
+import Chad from "../src/components/projects/chad/chad"
+import Expense from "../src/components/projects/expense/expense"
+import Mental from "../src/components/projects/mental/mental"
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Routes>
+      <Route path={"/"} element={<Homepage />} />
+      <Route path={"/projects"} element={<Projects />} />
+      <Route path={"/projects/blue"} element={<Blue />} />
+      <Route path={"/projects/chad"} element={<Chad />} />
+      <Route path={"/projects/expense"} element={<Expense />} />
+      <Route path={"/projects/mental"} element={<Mental />} />
+    </Routes>
   );
 }
 
