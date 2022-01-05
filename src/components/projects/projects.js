@@ -23,14 +23,14 @@ const Projects=()=>{
         </div></a>
         <a href='#/projects/expense'><div className='expense'>
         <img src={expense}/>
-        <p>This Project allows you to track your expenses</p>
+        <p>This project allows you to track your expenses</p>
         </div></a>
         <br/>
         <br/>
         <h3>ASP.NET/C# Projects</h3>
         <a href='#/projects/mental'><div className='mental'>
         <img src={mental}/>
-        <p>This Project provides you with random facts about mental health.</p>
+        <p>This project provides you with random facts about mental health.</p>
         </div></a>
         </div>
     </div>
