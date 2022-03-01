@@ -2,7 +2,7 @@
 ## Deployed Link
 [Link](https://taylor67469.github.io/portfolio/)
 ## Description 
-Zachary Taylor's portfolio page.
+Zachary Taylor's excellent portfolio page!
 
 ## Credits
 Worked on this all by myself.
