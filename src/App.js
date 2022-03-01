@@ -6,6 +6,8 @@ import Blue from "../src/components/projects/blue/blue"
 import Chad from "../src/components/projects/chad/chad"
 import Expense from "../src/components/projects/expense/expense"
 import Mental from "../src/components/projects/mental/mental"
+import BudgetApp from "./components/projects/budgetApp/budgetApp"
+
 function App() {
   return (
     <Routes>
@@ -15,6 +17,7 @@ function App() {
       <Route path={"/projects/chad"} element={<Chad />} />
       <Route path={"/projects/expense"} element={<Expense />} />
       <Route path={"/projects/mental"} element={<Mental />} />
+      <Route path={"/projects/budgetApp"} element={<BudgetApp />} />
     </Routes>
   );
 }

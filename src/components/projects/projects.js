@@ -3,6 +3,7 @@ import blueline from '../../assets/Screenshot (21).png'
 import chadchat from "../../assets/chadchat.png"
 import expense from "../../assets/expenseimg.png"
 import mental from "../../assets/mentalHealthSS.png"
+import budgApp from "../../assets/budgeappphoto.png"
 import '../projects/projects.css'
 const Projects=()=>{
     return(
@@ -24,6 +25,10 @@ const Projects=()=>{
         <a href='#/projects/expense'><div className='expense'>
         <img src={expense}/>
         <p>This project allows you to track your expenses</p>
+        </div></a>
+        <a href='#/projects/budgetApp'><div className='budget'>
+        <img src={budgApp}/>
+        <p>This project allows you to track your budget</p>
         </div></a>
         <br/>
         <br/>
