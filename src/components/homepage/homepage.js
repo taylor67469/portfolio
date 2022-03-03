@@ -9,7 +9,7 @@ const Homepage=()=>{
             <Navbar/>
             <h1>Zachary Taylor</h1>
             <p>
-                Entry Level Software Developer (Node | Javascript | C# | ASP.NET)
+                Entry Level Software Developer (Node | Javascript | C# | ASP.NET | TypeScript | PHP)
             </p>
             <br/>
             <h2 className='title'>About me:</h2>
