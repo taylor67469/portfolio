@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.456b8521.css",
-    "main.js": "/portfolio/static/js/main.69341ccf.js",
+    "main.js": "/portfolio/static/js/main.96a93121.js",
     "static/media/Screenshot (21).png": "/portfolio/static/media/Screenshot (21).e151952a539d1a3cd0d6.png",
     "static/media/mentalHealthSS.png": "/portfolio/static/media/mentalHealthSS.d72891f456a95eba8403.png",
     "static/media/expenseimg.png": "/portfolio/static/media/expenseimg.879636a4ddc650ac167f.png",
@@ -9,10 +9,10 @@
     "static/media/budgeappphoto.png": "/portfolio/static/media/budgeappphoto.e725f07c66a0abdc34bc.png",
     "index.html": "/portfolio/index.html",
     "main.456b8521.css.map": "/portfolio/static/css/main.456b8521.css.map",
-    "main.69341ccf.js.map": "/portfolio/static/js/main.69341ccf.js.map"
+    "main.96a93121.js.map": "/portfolio/static/js/main.96a93121.js.map"
   },
   "entrypoints": [
     "static/css/main.456b8521.css",
-    "static/js/main.69341ccf.js"
+    "static/js/main.96a93121.js"
   ]
 }
