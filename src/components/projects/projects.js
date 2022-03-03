@@ -24,11 +24,11 @@ const Projects=()=>{
         </div></a>
         <a href='#/projects/expense'><div className='expense'>
         <img src={expense}/>
-        <p>This project allows you to track your expenses</p>
+        <p>This project allows you to track your expenses.</p>
         </div></a>
         <a href='#/projects/budgetApp'><div className='budget'>
         <img src={budgApp}/>
-        <p>This project allows you to track your budget</p>
+        <p>This project allows you to track your budget.</p>
         </div></a>
         <br/>
         <br/>
