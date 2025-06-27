@@ -17,7 +17,7 @@ const Navbar=()=>{
         <a className="nav-link" href="https://github.com/taylor67469">Github</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="https://www.linkedin.com/in/zachary-taylor-22487a119/">LinkedIn</a>
+        <a className="nav-link" href="https://www.linkedin.com/in/zachary-t-22487a119/">LinkedIn</a>
       </li>
     </ul>
   </div>
