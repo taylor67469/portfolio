@@ -8,18 +8,18 @@ img{
     border-style: solid;
     border-width: 1px;
 }
-.blue{
+/* .blue{
     padding-left: 20px;
     padding-right: 20px;
     margin-left: auto;
     margin-right:auto;
-}
-p{
+} */
+/* p{
     padding-left: 20px;
     padding-right: 20px;
     text-decoration: none;
     color: black;
-}
+} */
 @media screen and (max-width: 600px) {
     img {
       width: 50%;

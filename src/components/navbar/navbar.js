@@ -10,9 +10,7 @@ const Navbar=()=>{
   </button>
   <div className="collapse navbar-collapse navbar" id="navbarNav">
     <ul className="navbar-nav">
-      <li className="nav-item">
-        <a className="nav-link" href="#/projects">Projects</a>
-      </li>
+      
       <li className="nav-item">
         <a className="nav-link" href="https://github.com/taylor67469">Github</a>
       </li>

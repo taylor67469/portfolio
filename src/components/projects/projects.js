@@ -13,32 +13,30 @@ const Projects=()=>{
         <br/>
         <br/>
         <h3>Javascript/React Projects</h3>
-        <div className='projC'>
-        <a href='#/projects/blue'><div className='blue'>
-        <img src={blueline}/>
-        <p>This project tracks the Washington Blue Line Train.</p>
-        </div></a>
-        <a href='#/projects/chad'><div className='chad'>
-        <img src={chadchat}/>
-        <p>This project allows users to chat and message each other and make forum posts.</p>
-        </div></a>
-        <a href='#/projects/expense'><div className='expense'>
-        <img src={expense}/>
-        <p>This project allows you to track your expenses.</p>
-        </div></a>
-        <a href='#/projects/budgetApp'><div className='budget'>
-        <img src={budgApp}/>
-        <p>This project allows you to track your budget.</p>
-        </div></a>
-        <br/>
-        <br/>
-        <h3>ASP.NET/C# Projects</h3>
-        <a href='#/projects/mental'><div className='mental'>
-        <img src={mental}/>
-        <p>This project provides you with random facts about mental health.</p>
-        </div></a>
+        <div className='project-cont'>
+        
+                <a href='#/projects/blue'><div className=''>
+                <img className="proj-img" src={blueline}/>
+                <p className="project-desc">Tracks the Washington Blue Line Train.</p>
+                </div></a>
+                <a href='#/projects/chad'><div className=''>
+                <img className="proj-img" src={chadchat}/>
+                <p className="project-desc">Chadchat allows users to chat and message each other and make forum posts, but was discontinued</p>
+                </div></a>
+                <a href='#/projects/expense'><div className=''>
+                <img className="proj-img" src={expense}/>
+                <p className="project-desc">Expense Tracker allows you to track your expenses, but was discontinued.</p>
+                </div></a>
+                <a href='#/projects/budgetApp'><div className=''>
+                <img className="proj-img" src={budgApp}/>
+                <p className="project-desc">Budget Tracker allows you to track your budget, but was discontinued.</p>
+                </div></a>
+                <a href='#/projects/mental'><div className=''>
+                <img className="proj-img" src={mental}/>
+                <p className="project-desc">Mental Health Facts provides you with random facts about mental health, but was discontinued.</p>
+                </div></a>
         </div>
-    </div>
+        </div>
     )
 }
 export default Projects;
