@@ -23,7 +23,7 @@ const Homepage=()=>{
             </p>
             <p className='box'>I'm passionate about writing clean, maintainable code and delivering high-impact features that solve real business problems. Whether working independently or as part of a remote Agile team, I bring strong problem-solving skills, fast learning, and a drive to continually expand my tech stack.</p>
             <p className='box'>Currently focused on remote opportunities where I can contribute to innovative projects, collaborate with forward-thinking developers, and continue growing as a full-stack engineer.</p>
-            <p className='box'>When I am not coding, I like to spend time with family and 3 dogs. I am very personable and I enjoy working as a team.</p>
+            <p className='box'>Outside of coding, I enjoy spending quality time with my family and three dogs. I’m a personable individual who thrives in collaborative, team-oriented environments.</p>
             <h2 className='title'>Projects:</h2>
             <div className='project-cont'>
 
